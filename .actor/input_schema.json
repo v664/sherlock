@@ -5,7 +5,7 @@
   "schemaVersion": 1,
   "properties": {
     "usernames": {
-      "title": "Usernames to hunt down",
+      "title": "mediafrostik; RSTSLV_01; rosman777; frostik",
       "type": "array",
       "description": "A list of usernames to be checked for existence across social media",
       "editor": "stringList",
@@ -13,6 +13,6 @@
     }
   },
   "required": [
-    "usernames"
+    "mediafrostik; RSTSLV_01; rosman777; frostik"
   ]
 }
